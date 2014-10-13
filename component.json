@@ -8,7 +8,7 @@
   "dependencies": {
     "component/emitter": "*",
     "component/domify": "*",
-    "segmentio/showable": "0.1.1",
+    "slifszyc/showable": "be12f297aee1c700c62617b05feb272b55444d27",
     "ianstormtaylor/classes": "0.1.0"
   },
   "development": {
